@@ -1,2 +1,2 @@
 # Sequence-Models-by-DeepLearning.AI
-#Submissions to obtain the certificate - 
+Submissions to obtain the certificate - 
